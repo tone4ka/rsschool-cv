@@ -2,8 +2,11 @@
 ## Zinkevich Antonina
 
 *phone: +375293851466*
+
 *e-mail: toniamik@gmail.com*
+
 *discord: ToniaZinkevich*
+
 
 ***
 
@@ -28,13 +31,17 @@ Responsibilities: programming, supporting, of end-user system, preparing documen
 MS Windows (3.11, 95, 98, XP) MS Word (6.0, 7.0, 97), MS PowerPoint, MS Excel, Internet (all popular browsers ), skills of handing multimedia files.
 
 **Language:**
+
 English – fluent
 
 **Personal information:**
+
 Russian native speaker, Moscow permanent resident. Responsible, communicative, work well individually and in team, willing to travel a lot.
 
 **Additional information:**
+
 Driving license, foreign passport.
 
 **Hobbies:**
+
 Alpine skiing, climbing, music, foreign languages, traveling.
