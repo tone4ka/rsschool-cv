@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://tone4ka.github.io/rsschool-cv/cv
