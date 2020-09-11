@@ -1,0 +1,26 @@
+
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+}
+.contacts{
+    text-align: left;
+    background-color: #F5F5F5;
+    color: #898989;
+}
+.content{
+    text-align: left;
+}
+
+.paragraph{
+    padding: 30px 0px 0px 0px;
+}
+
+.footer{
+    padding: 10px 0px 0px 0px;
+    font-size: 14px;
+    text-align: left;
+    color: #898989;
+    background-color: #FAFAFA
+}
