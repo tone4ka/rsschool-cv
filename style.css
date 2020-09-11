@@ -1,24 +1,24 @@
 
-body{
+body {
     font-family: sans-serif;
     font-size: 18px;
     line-height: 27px;
 }
-.contacts{
+.contacts {
     text-align: left;
     background-color: #F5F5F5;
     color: #898989;
 }
-.content{
+.content {
     text-align: left;
 }
 
-.paragraph{
-    padding: 30px 0px 0px 0px;
+.paragraph {
+    padding: 30px 0 0 0;
 }
 
-.footer{
-    padding: 10px 0px 0px 0px;
+.footer {
+    padding: 10px 0 0 0;
     font-size: 14px;
     text-align: left;
     color: #898989;
